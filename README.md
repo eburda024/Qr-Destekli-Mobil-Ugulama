@@ -1,1 +1,1 @@
-Merhabalar bu proje veri tabanın telefonda tutuldupu Qr code destekli android uygulamasıdır.
+Merhabalar bu proje veri tabanın telefonda tutulduğu Qr kodo destekli android uygulamasıdır.
